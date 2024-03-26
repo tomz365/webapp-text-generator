@@ -4,7 +4,7 @@ export const API_KEY = `${process.env.NEXT_PUBLIC_APP_KEY}`
 export const API_URL = `${process.env.NEXT_PUBLIC_API_URL}`
 export const APP_INFO: AppInfo = {
   title: '1Min Story Script Writer',
-  description: 'เขียนสคริปส์วีดีโอสั้น ในเรื่องที่คุณสนใจ ใส่ภาษาไทยเข้าไป เราจัดการทำเป็นเรื่องราวน่าสนใจให้เลย (Eng Version)',
+  description: '',
   copyright: 'Tommy Labs Media',
   privacy_policy: '',
   default_language: 'en-US',
